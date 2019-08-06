@@ -1,5 +1,7 @@
 # SSUML_segmentation
-슈뮬 상반기 프로젝트
+슈뮬 상반기 프로젝트입니다.
+
+tensorflow에 있는 U-net 모델의 segmentation 튜토리얼 코드를 분석하고 따라서 수행하였습니다.
 
 **~4/19** [segmentation 학습](https://github.com/lhju4e/TIL/blob/master/4_23_segmentation.ipynb)
 
